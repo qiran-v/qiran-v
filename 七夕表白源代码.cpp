@@ -1,3 +1,7 @@
+
+
+//代码出自柒染Q：43502567 借用留出处谢谢 
+
 #include<stdio.h>
 #include<windows.h> 
 #include <stdlib.h>
@@ -16,6 +20,8 @@ SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 7);
 }
 main(){
 	
+	
+	Sleep(3000); 
 	
 	/*
 	   int backgroud;/*i代表每种颜色循环次数相当于停留时间
@@ -65,7 +71,7 @@ system("color c");
 	char q[]="中";
 	char r[]="!";
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	//其实一直有句话在我心中
 	printf("%s",a1);
@@ -124,6 +130,8 @@ system("color c");
               *                  14
 */
 
+//代码出自柒染Q：43502567 借用留出处谢谢 
+
 	color(4);
 
 printf("     *****         *****\n");
@@ -171,7 +179,7 @@ printf("\n");
  
  */
  
- 
+ //代码出自柒染Q：43502567 借用留出处谢谢 
  
  
  if(xuanze=='Y') 
@@ -201,7 +209,7 @@ printf("\n");
   printf("\n");
   
   
-  
+  //代码出自柒染Q：43502567 借用留出处谢谢 
   
    	Sleep(2000);
   color(3);
@@ -253,7 +261,7 @@ for(i=0;i<=strlen(xiang);i++)
   Sleep(50);
 }
 
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 		
 		
 	char renzhen[254]={"到现在最认真对待的一件事了吧！"};
@@ -279,7 +287,7 @@ for(i=0;i<=strlen(chenggong);i++)
 
  
  
- 
+ //代码出自柒染Q：43502567 借用留出处谢谢 
  
 	char fuchu[254]={"你需要付出比别人多更多的精力。"};
 
@@ -292,7 +300,7 @@ for(i=0;i<=strlen(fuchu);i++)
 	printf("\n");
 		printf("\n");
 		
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 		
 	char shuijiao[30]={"别人睡觉时你在学习，"};
 
@@ -306,7 +314,7 @@ for(i=0;i<=strlen(shuijiao);i++)
  
  
  
- 
+ //代码出自柒染Q：43502567 借用留出处谢谢 
  	char youxi[254]={"别人玩游戏的时候你在学习；"};
 
 
@@ -320,7 +328,7 @@ for(i=0;i<=strlen(youxi);i++)
 		
 		
 		
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 		
  	char heiye[254]={"你在黑夜里奔跑，在黎明时舞蹈。"};
 
@@ -357,7 +365,7 @@ for(i=0;i<=strlen(wanmei);i++)
 }
 	printf("\n");
 		printf("\n");
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 		*/
 	char xin1[254]={"      ****          ****"};
 
@@ -588,7 +596,7 @@ for(i=0;i<=strlen(shijian);i++)
   Sleep(50);
 }
 
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	
 	char huanyin[254]={"欢迎回家！"};
@@ -604,7 +612,7 @@ for(i=0;i<=strlen(huanyin);i++)
 /*
 		
 
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	char str24[] = "             ***";//13
 	char tmp24[10] = {0};
@@ -629,7 +637,7 @@ for(i=0;i<=strlen(huanyin);i++)
 	printf("\n");
 	
 	
-	
+//代码出自柒染Q：43502567 借用留出处谢谢 	
 	
 	
 	
@@ -657,7 +665,7 @@ for(i=0;i<=strlen(huanyin);i++)
 		printf("\n");
 		
 		
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 			
 	char str26[] = "这些你本就不需要任何人给予";//14
 	char tmp26[10] = {0};
@@ -682,7 +690,7 @@ for(i=0;i<=strlen(huanyin);i++)
 	printf("\n");
 		printf("\n");
 		
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 		
 	char str27[] = "你要相信：";//14
 	char tmp27[10] = {0};
@@ -707,7 +715,7 @@ for(i=0;i<=strlen(huanyin);i++)
 	printf("\n");
 		printf("\n");
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 			
 	char str28[] = "在考试结束那一刻";//14
@@ -734,7 +742,7 @@ for(i=0;i<=strlen(huanyin);i++)
 		printf("\n");
 	
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	char str29[] = "你可以依靠墙壁，松一口气";//14
 	char tmp29[10] = {0};
 	int i29 = 0;
@@ -758,7 +766,7 @@ for(i=0;i<=strlen(huanyin);i++)
 	printf("\n");
 		printf("\n");
 		
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 		
 	char str30[] = "那时我会拍拍你，对你说：";//14
 	char tmp30[10] = {0};
@@ -909,7 +917,7 @@ for(i=0;i<=strlen(huanyin);i++)
 
   /*
 
- 
+ //代码出自柒染Q：43502567 借用留出处谢谢 
 	char str[] = "人走了吗？还有最后彩蛋呢！！！";
 	char tmp[3] = {0};
 	int i3 = 0;
@@ -959,7 +967,7 @@ for(i=0;i<=strlen(huanyin);i++)
 	
 */
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	/*
 	
 	int i;
@@ -996,7 +1004,7 @@ for(i=0;i<=strlen(hello);i++)
 	}
 	printf("\n");
 		printf("\n");
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	char str301[] = "我想这可能是你";
 	char tmp301[3] = {0};
@@ -1045,7 +1053,7 @@ for(i=0;i<=strlen(hello);i++)
 		printf("\n");
 
 
-*/
+*///代码出自柒染Q：43502567 借用留出处谢谢 
 /* 
 			
 			
@@ -1284,7 +1292,7 @@ for(i=0;i<=strlen(hello);i++)
 	printf("\n");
 
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	
 	char str16[] = "*****************************";//5
@@ -1309,7 +1317,7 @@ for(i=0;i<=strlen(hello);i++)
 	}
 	printf("\n");
 
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	char str17[] = "*****************************";//6 
 	char tmp17[10] = {0};
@@ -1333,7 +1341,7 @@ for(i=0;i<=strlen(hello);i++)
 	}
 	printf("\n");
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	
 	char str18[] = " ***************************";//7 
@@ -1360,7 +1368,7 @@ for(i=0;i<=strlen(hello);i++)
 
 	
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	char str19[] = "   *********************** ";//8 
 	char tmp19[10] = {0};
@@ -1383,7 +1391,7 @@ for(i=0;i<=strlen(hello);i++)
 	Sleep(25);
 	}
 	printf("\n");
-
+//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	
 	
@@ -1410,7 +1418,7 @@ for(i=0;i<=strlen(hello);i++)
 	printf("\n");
 
 		
-		
+		//代码出自柒染Q：43502567 借用留出处谢谢 
 		
 	char str21[] = "       ***************  ";//10 
 	char tmp21[10] = {0};
@@ -1435,7 +1443,7 @@ for(i=0;i<=strlen(hello);i++)
 	printf("\n");
 	
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	char str22[] = "         ***********";//11
 	char tmp22[10] = {0};
@@ -1459,7 +1467,7 @@ for(i=0;i<=strlen(hello);i++)
 	}
 	printf("\n");
 	
-	
+	//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	
 	char str23[] = "           *******";//12
@@ -1484,7 +1492,7 @@ for(i=0;i<=strlen(hello);i++)
 	}
 	printf("\n");
 	
-
+//代码出自柒染Q：43502567 借用留出处谢谢 
 	
 	*/
 
